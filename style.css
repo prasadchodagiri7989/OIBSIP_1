@@ -1,0 +1,97 @@
+.top-logo{
+    height: 30px;
+}
+.bg-black {
+    background-color: black;
+    color: white;
+  }
+
+.box-2{
+    background-image: url('https://res.cloudinary.com/dbtkas8kr/image/upload/v1686501042/box2bg_jllrho.jpg');
+    width: 100vw;
+    background-size: cover;
+    height: 800px;
+    text-align: center;
+    animation: fade 0.5s;
+    
+}
+.box-2-text{
+    text-align: right;
+}
+.para-box-2{
+    text-align: center;
+}
+.item-box-container{
+    font-family: candara;
+}
+.item-image{
+    height: 200px;
+    
+    
+}
+.item-box:hover{
+    transform: scale(1.1);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.item-box{
+    height: 300px;
+    width: 200px;
+    margin: 50px;
+    margin-top: 0px;
+    transition: transform .5s , box-shadow .5s;
+}
+.item-name{
+    color: black;
+    padding-left: 10px;
+}
+.item-brand{
+    color: black;
+    padding-left: 10px;
+}
+.item-price{
+    color: black;
+    padding-left: 10px;
+}
+.product-heading{
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.product{
+    text-align: center;
+    font-family: candara;
+    margin-top: 100px;
+}
+.image-styles{
+    height: 30vh;
+}
+.service-item{
+    height: 400px;
+    width: 400px;
+    text-align: center;
+    margin: 50px;
+    background-color: #f4f4f4;
+    padding: 50px;
+    border-radius: 10px;
+}
+.embed-vedio{
+    height: 200px;
+    width: 200px;
+}
+.contact-box{
+    background-color: #28475e;
+}
+.contact-item{
+  background-color: #faf7e8;
+  width: 80px;
+  height: 80px;
+  border-radius: 40px;
+  margin: 15px;
+  padding-top: 22px;
+  padding-bottom: 22px;
+  padding-right: 22px;
+  padding-left: 22px;
+}
+.icon {
+    color: #d0b200;
+    font-size: 35px;
+}

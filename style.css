@@ -1,6 +1,9 @@
 .top-logo{
     height: 30px;
 }
+html {
+  scroll-behavior: smooth;
+}
 .bg-black {
     background-color: black;
     color: white;
